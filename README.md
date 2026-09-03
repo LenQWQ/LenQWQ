@@ -3,4 +3,5 @@
 🎓 Software Engineering @ Fuzhou University · Class of 2025  
 📍 Based in Fuzhou, China  
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LenQWQ)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
