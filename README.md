@@ -5,7 +5,6 @@
 
 
 <!--START_SECTION:waka-->
-![WakaTime stats](https://github-readme-stats-50j6yf1st-len-qwq.vercel.app/api/wakatime?api_key=waka_54d8ba16-70db-49c6-a381-0983db37336e&layout=compact&theme=blue-green&range=last_7_days)
 
 ```txt
 Go               3 hrs 3 mins          █████████████▒░░░░░░░░░░░   52.96 %
