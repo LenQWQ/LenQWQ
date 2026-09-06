@@ -30,7 +30,8 @@ jobs:
           
           # ---- 保留顶部概览 ----
           SHOW_TOTAL_CODE_TIME: "True"    
-          SHOW_AI_CODE_TIME: "false"          
+          SHOW_AI_CODE_TIME: "false"       
+           SHOW_AI_CODING: "False" 
           SHOW_PROFILE_VIEWS: "false"         
           
           # ---- 视觉风格 ----
