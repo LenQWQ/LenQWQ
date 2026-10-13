@@ -13,7 +13,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          TIME_RANGE: "last_7_days"
           
           # ---- 关闭所有详细统计 ----
           SHOW_LANGUAGE_PER_REPO: "False"     
